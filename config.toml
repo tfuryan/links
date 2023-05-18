@@ -9,7 +9,7 @@ disableKinds = ["taxonomy", "term"]
   headline = "BJD Collector - Sewing, Photography, and Videos"
   image = "portait-of-love.jpg"
   links = [
-    { halcyonstraits = { href = "https://www.halcyonstraits.com", text = "My Website" } },
+    { halcyonstraits = { href = "https://www.halcyonstraits.com", text = "Doll Profiles" } },
     { youtube = "https://youtube.com/HalcyonStraits" },
     { instagram = "https://instagram.com/halcyonstraits"},
     { discord = "http://discordapp.com/users/809496694122348586"},
