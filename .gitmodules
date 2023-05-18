@@ -1,0 +1,6 @@
+[submodule "theme/lynx"]
+	path = theme/lynx
+	url = https://github.com/jpanther/lynx.git
+[submodule "themes/lynx"]
+	path = themes/lynx
+	url = https://github.com/jpanther/lynx.git
