@@ -5,14 +5,14 @@ enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [author]
-  name = "Halcyon Straits"
+  name = "@halcyonstraits"
   headline = "BJD Collector - Sewing, Photography, and Videos"
-  image = "hs-2022-logo.png"
+  image = "portait-of-love.jpg"
   links = [
     { halcyonstraits = { href = "https://www.halcyonstraits.com", text = "My Website" } },
     { youtube = "https://youtube.com/HalcyonStraits" },
     { instagram = "https://instagram.com/halcyonstraits"},
-    { discord = "https://discord.gg/9C4StDV98x"},
+    { discord = "http://discordapp.com/users/809496694122348586"},
     { doa = { href = "https://denofangels.com/threads/feedback-for-veralyne.831734/", text = "Den of Angels" } },
     
   ]
