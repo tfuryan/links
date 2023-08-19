@@ -6,7 +6,7 @@ enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params]
-  description = "A collection of places for Halycon Straits' dolls and BJD hobby."
+  description = "A collection of places for Halcyon Straits' dolls and BJD hobby."
   images = ['links-ss.png']
 
 [author]
