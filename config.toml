@@ -6,7 +6,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params]
   description = "A collection of links for Halycon Strait's Dolls and BJD hobby."
-  images = ['assets/portait-of-love.jpg']
+  images = ['portait-of-love.jpg']
 
 [author]
   name = "@halcyonstraits"
