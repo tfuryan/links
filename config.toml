@@ -4,6 +4,10 @@ title = "Halcyon Straits - Links"
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
+[params]
+  description = "A collection of links for Halycon Strait's Dolls and BJD hobby."
+  images = ['assets/portait-of-love.jpg']
+
 [author]
   name = "@halcyonstraits"
   headline = "BJD Collector - Sewing, Photography, and Videos"
