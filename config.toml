@@ -6,7 +6,7 @@ enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params]
-  description = "A collection of links for Halycon Strait's dolls and BJD hobby."
+  description = "A collection of places for Halycon Strait's dolls and BJD hobby."
   images = ['portait-of-love.jpg']
 
 [author]
@@ -14,10 +14,10 @@ disableKinds = ["taxonomy", "term"]
   headline = "BJD Collector - Sewing, Photography, and Videos"
   image = "portait-of-love.jpg"
   links = [
-    { halcyonstraits = { href = "https://www.halcyonstraits.com", text = "Doll Profiles" } },
-    { youtube = "https://youtube.com/HalcyonStraits" },
+    { halcyonstraits = { href = "https://www.halcyonstraits.com/", text = "Doll Profiles" } },
+    { youtube = "https://youtube.com/HalcyonStraits/" },
     { instagram = "https://instagram.com/halcyonstraits"},
-    { discord = "http://discordapp.com/users/809496694122348586"},
+    { discord = "http://discordapp.com/users/809496694122348586/"},
     { doa = { href = "https://denofangels.com/threads/feedback-for-veralyne.831734/", text = "Den of Angels" } },
     
   ]
