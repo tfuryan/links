@@ -17,6 +17,7 @@ disableKinds = ["taxonomy", "term"]
     { youtube = "https://youtube.com/HalcyonStraits" },
     { instagram = "https://instagram.com/halcyonstraits"},
     { discord = "http://discordapp.com/users/809496694122348586"},
+    { bluesky = "https://bsky.app/profile/halcyonstraits.com"},
     { doa = { href = "https://denofangels.com/threads/feedback-for-veralyne.831734/", text = "Den of Angels" } },
     
   ]
