@@ -1,25 +1,25 @@
 theme = "lynx"
 title = "Halcyon Straits - Links"
-baseURL = 'https://links.halcyonstraits.com/'
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params]
-  description = "A collection of places for Halcyon Straits' dolls and BJD hobby."
-  images = ['links-ss.png']
+  description = "A collection of links for Halycon Strait's Dolls and BJD hobby."
+  images = ['assets/portait-of-love.jpg']
 
 [author]
   name = "@halcyonstraits"
   headline = "BJD Collector - Sewing, Photography, and Videos"
   image = "portait-of-love.jpg"
   links = [
-    { halcyonstraits = { href = "https://www.halcyonstraits.com/", text = "Doll Profiles" } },
-    { youtube = "https://youtube.com/HalcyonStraits/" },
-    { instagram = "https://www.instagram.com/halcyonstraits"},
-    { discord = "https://discord.com/users/809496694122348586/"},
+    { halcyonstraits = { href = "https://www.halcyonstraits.com", text = "Doll Profiles" } },
+    { youtube = "https://youtube.com/HalcyonStraits" },
+    { instagram = "https://instagram.com/halcyonstraits"},
+    { discord = "http://discordapp.com/users/809496694122348586"},
+    { bluesky = "https://bsky.app/profile/halcyonstraits.com"},
     { doa = { href = "https://denofangels.com/threads/feedback-for-veralyne.831734/", text = "Den of Angels" } },
-    
+
   ]
 
 [markup.highlight]
